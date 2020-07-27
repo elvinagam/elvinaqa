@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Peek 2020-07-09 15-53](https://https://im7.ezgif.com/tmp/ezgif-7-006df5f128fa.gif)
+![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/57037068/88589670-8c77e580-d06a-11ea-8067-696c17a6a496.gif)
 
 <p align="center">
 <a href= "https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
