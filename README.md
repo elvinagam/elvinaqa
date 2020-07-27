@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/57037068/88589670-8c77e580-d06a-11ea-8067-696c17a6a496.gif)
 
-# - ⚡ Worked/familiar with prog langs: Python/ C/ C++/ C#/ JS
-# - ⚡ Worked/familiar with tools/libs: Tensorflow/ Pytorch/ OpenCV/ D3/ Tableau/ 
-# - ⚡ Worked/familiar with: Arduino/ Raspberry PI/ ESP/
+- ⚡ Worked/familiar with prog langs: Python/ C/ C++/ C#/ JS
+- ⚡ Worked/familiar with tools/libs: Tensorflow/ Pytorch/ OpenCV/ D3/ Tableau/ 
+- ⚡ Worked/familiar with: Arduino/ Raspberry PI/ ESP/
 
 - 🔭 I’m currently working on an IoT project with AI application
 - 🌱 I’m currently learning DevOps
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Startups
 
 <p align="center">
-<a href= "https://https://medium.com/@elvinaqa/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
+<a href= "https://medium.com/@elvinaqa/deep-learning-and-computer-vision-basics-i-86acab09e3b7?source=your_stories_page---------------------------"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/elvin-agammed/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://www.youtube.com/channel/UCgQmxOaBSSmpIa4e-gt4_Ww"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
 <a href= "https://dev.to/elvinaqa"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
