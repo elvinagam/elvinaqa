@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/57037068/88589670-8c77e580-d06a-11ea-8067-696c17a6a496.gif)
 
 - ⚡ Worked/familiar with prog langs: Python/ C/ C++/ C#/ JS
-- ⚡ Worked/familiar with tools/libs: Tensorflow/ Keras/ Pytorch/ AutoML/ OpenCV/YOLOV3 BS4 Scraping/ D3.js/ Tableau/ Wow.js/ Tilt.js/ Animate.js/ Flask
+- ⚡ Worked/familiar with tools/libs: Tensorflow/ Keras/ Pytorch/ AutoML/ OpenCV/YOLOV3 BS4 Scraping/ D3.js/ Tableau/ Wow CSS/ Tilt.js/ Animate.js/ Flask
 - ⚡ Worked/familiar with hardware modules: Arduino/ Raspberry PI/ ESP/
 
 - 🔭 I’m currently working on an IoT project with AI application
