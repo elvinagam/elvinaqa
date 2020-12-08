@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <a href= "https://dev.to/elvinaqa"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://twitter.com/aghammadzada"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
-
+<!--
 <p  align="center">
-  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=elvinaqa.elvinaqa" alt="visitor count"/></br>-->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=elvinaqa.elvinaqa" alt="visitor count"/></br>
   <img src="https://github-readme-stats.vercel.app/api/?username=elvinaqa&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
-</p>
+</p>-->
