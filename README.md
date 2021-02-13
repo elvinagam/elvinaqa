@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![Elvin's github stats](https://github-readme-stats.vercel.app/api?username=elvinaqa&show_icons=true&hide_border=true&theme=onedark) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elvinaqa)  
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elvinaqa)  -->
 
 <p align="center">
 <a href= "https://medium.com/@elvinaqa/deep-learning-and-computer-vision-basics-i-86acab09e3b7?source=your_stories_page---------------------------"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
