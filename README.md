@@ -25,7 +25,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on selling my IoT end product more
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Startups
+<img src="https://github-profile-trophy.vercel.app/?username=elvinaqa&theme=onedark&column=3&margin-w=15&margin-h=15">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvinaqa&theme=tokyonight)
+
+![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=elvinaqa&show_icons=true&hide_border=true&theme=onedark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinaqa&layout=compact&theme=onedark)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddhant-K-code)  
 <p align="center">
 <a href= "https://medium.com/@elvinaqa/deep-learning-and-computer-vision-basics-i-86acab09e3b7?source=your_stories_page---------------------------"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/elvin-agammed/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
