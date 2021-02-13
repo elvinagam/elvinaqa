@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=elvinaqa&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elvinaqa)  
-![Elvin's github stats](https://github-readme-stats.vercel.app/api?username=elvinaqa&show_icons=true&hide_border=true&theme=onedark) 
 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvinaqa&theme=tokyonight)
 
